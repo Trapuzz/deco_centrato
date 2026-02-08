@@ -1,28 +1,29 @@
 ---
 layout: post
-title: "Cosa succede qua?"
+title: "Piacere mi presento"
 author: "Trapuz"
 permalink: /about/
 ---
 
-Scrittore in erba che, tra un feriale e l'altro, scrive racconti di fantascienza. Per spronarmi partecipo anche a un po' di concorsi. Non quantifico il numero perché, in meno di due anni di "attività", ho perso il conto.
+Uno scrittore in erba che, tra un feriale e l'altro, scrive racconti passatempo. Per spronarmi partecipo anche a un po' di concorsi. Non quantifico il numero perché, in meno di due anni di "attività", ho perso il conto.
 
-Risultato? File Word dai dubbi nomi, "Nuove Cartelle" sparse ovunque, insomma sano disordine tra Google Drive e PC di casa. Racconti sparsi nu po' ovunque, abbozzati, non corretti oppure spediti via mail a chissà dove. Quando navigo tra quelle cartelle vedo i file .docx annaspare, e man mano mi dimentico che loro stessi siano il file originale, o un abbozzo, o una copia del cazzo non rimossa. Nel peggiore dei casi addirittura, mi dimentico di averli scritti.
-Al di fuori della qualità di quei racconti, questo stato nervoso non mi piace: sono idee che rimangono lì ad attendere senza uno scopo preciso. Un tarlo quindi ha preso il sonno delle mie giornate quotidiane...
+Risultato? File Word dai dubbi nomi, "Nuova Cartella", sano disordine tra Google Drive e PC di casa. Racconti sparsi nu po' ovunque, abbozzati, non corretti oppure spediti via mail a chissà chi. Quando navigo tra quelle cartelle vedo i file .docx annaspare, e man mano mi dimentico che loro stessi siano il file originale, o un abbozzo, o una copia spuria non cestinata. Nel peggiore dei casi addirittura, mi dimentico di averli scritti.
+Al di fuori della qualità di quei racconti, questo *modus operandi* non mi piace: sono idee che rimangono lì ad attendere senza uno scopo preciso. Un tarlo ha quindi iniziato a scavare nei miei pensieri.
 
-# Cosa dovrei farci con questi racconti?
+Siamo o non siamo nel XXI secolo? Abbiamo internet? Usiamolo. Mi sono quindi scervellato: ho scoperto il mondo dei magazine online. I N F I N I T O. Il solo pensiero di quante riviste esistano genera orrore cosmico.
 
-Siamo nel 21 esimo secolo no? Internet sarà mio amico. Mi sono quindi scervellato: ho scoperto il mondo dei magazine. I N F I N I T O. Il solo pensiero di quante riviste esistano mi genera orrore cosmico. In questo momento, sono sicuro, almeno 5 riviste stanno prendendo forma, ognuna con il proprio concorso, idea editoriale, tempi, argomenti, e così via.
+Pubblicare con una casa editrice, si molto bello ma... come? Nel migliore dei casi, in un lasso di tempo limitato, aprono anche i battenti all'invio diretto. Il problema però di quando succede è sempre lo stesso: l'offerta supera la domanda, e gli indirizzi email scoppiano di scritti. Tutto annacquato. Ecco perché esistono i concorsi. Puro *scouting editoriale* per così dire (esiste questo termine?).
 
-Pubblicare con una casa editrice, si molto bello ma... come? A volte le case sono disponibili, in un lasso di tempo limitato, alla raccolta libera di racconti lunghi o libri interi, ma questo è il puro caso particolare. Un mare di file, ogni giorno travolge il loro indizzo mail, e il tuo racconto, assumiamo il migliore del mondo, si perde in quelle onde differentemenete formattate. Ecco perché esistono i concorsi, puro *scouting editoriale* per così dire (esiste questo termine?).
+Il *self-publishing*? Stesso problema: troppa carne al fuoco. Rimane lo stesso la scelta più allettante. Non tutti possono pubblicare un libro... o forse si?
 
-Il *self-publishing*? Stesso problema. Troppa carne al fuoco. Vino annacquato. Rimane però la scelta più allettante, anche all'orgoglio: non tutti possono pubblicare un libro... o forse si? Magari in futuro potrei decidere di farlo.
+# Cosa rappresenta questo sito?
 
-# Cosa rappresenta questo sito quindi?
+Parto dal dire che questo NON rappresenta: una rivista, una casa editrice o qualche coach di scrittura creativa (non penso ci siano nemmeno le credenziali).
+È un **archivio**. Raccatto file e gli do una lucidata. Poi gli do un nome e uno spazietto dove stare con titolo accattivante. Per il momento vorrei serializzare le uscite, quando poi finisce il racconto lo organizzo in un modo che non ho ancora deciso.
 
-Parto dal dire che questo non è una rivista, una casa editrice ecc...
-È un **ostello**. Li raccatto da strada e gli do una lucidata. Poi, chiavi in mano, gli do una stanza dove andare. In pratico correggo quei racconti, e li pubblico in un post seguendo le norme Creative Commons, senza scopi di lucro. Dentro ogni post troverete una piccola anteprima (per i più grandi ovviamente) e i file in diverso formato, pronti per essere scaricati.
+# Il nome? Deco-centrato?
 
-Per il momento staranno qua, con vitto e alloggio assicurato a non a marcire in qualche cartella dal nome "asdfg".
+Non nel senso che ho una soglia dell'attenzione bassa. Mi piace solo come suona. Inoltre, in molti miei racconti speculativi, sono presenti dispositivi simil smartphone. Per pigrizia questi dispositivi li ho sempre chiamati allo stesso modo: DECO. L'idea di aggiungere "DECO" nel nome mi piaceva.
+Tutto qui.
 
 Vediamo quanto dura questa buffonata.
