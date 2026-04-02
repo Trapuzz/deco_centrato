@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Lezioni Pericolose #6"
+author: "Trapuz"
+---
+
 Erano si e no dodici ore che lo avevano catturato. Ismaele lo stimò basandosi sui suoi bisogni fisiologici. Niente sete e fame. Sentì solo una leggera astinenza, meccanica come un orologio. Non era ancora terribile, l’astinenza, ma lo sarebbe diventata al più presto, se avesse aspettato ancora un poco. Nonostante l’impellenza, decise comunque di non farci niente, fingere, dissimulare. Doveva essere imperscrutabile nella sua normalità, come se non fosse legato ad una sedia da ore, come avrebbe fatto una persona innocente. 
 
 Un suono elettrico fece scattare la porta blindata. Entrò un uomo, calvo, sulla quarantina. Si avvicinò lentamente, proprio come un qualunque essere umano. Ismaele però lo sapeva, lo sentiva nelle sue ossa: per gli interrogatori si usano sempre e solo androidi. Chissà se ne era consapevole, della sua natura. Se sapeva di essere una proiezione matematica, la simulazione del comportamento di chissà quale esperto di interrogatori. — Ismaele Severini. — disse l’artificiale. Il ragazzo annuì. L’androide lo fissò per qualche secondo, poi sorrise. — Sai perché sei stato imprigionato, vero? — Ismaele alzò il sopracciglio. L’androide appoggiò le mani sul banchetto di fronte a lui. — Comprendi le mie parole? — Il ragazzo sbuffò. 
